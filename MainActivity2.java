@@ -61,6 +61,7 @@ public class MainActivity2 extends AppCompatActivity {
 
             @Override
             public void onFinish() {
+                //create Intent for screen switching equation one
                 finishAffinity();
             }
         }.start();
